@@ -1,0 +1,3 @@
+[{"code":"AUD-A4","color":"red","year":2015,"price":30990,"model":"a4","id":"9b390759-90e6-42c7-bf5e-fefac2e9dcfb","kW":150,"make":"audi"},{
+  "code":"REN-MEG","color":"red","year":2015,"price":13990,"model":"megane","id":"afd611d1-0909-4efb-9527-536f2865df9b","kW":132,"make":"renault"},
+  {"code":"MER-ACL","color":"red","year":2009,"price":13990,"model":"a class","id":"4ee9174c-a906-47c2-ab58-c2885652d3c3","kW":124,"make":"mercedes"}]
